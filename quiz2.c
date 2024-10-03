@@ -2,6 +2,7 @@
 
 int main(){
     int bookID, dueDate, returnDate, daysOverdue, fineAmount, fineRate;
+    
     //Book ID user input
     printf("Enter the Book ID: ");
     scanf("%d", &bookID);
